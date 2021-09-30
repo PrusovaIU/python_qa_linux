@@ -9,7 +9,7 @@ if __name__ == '__main__':
     for user in users:
         users_processes = [process for process in processes if process.user == user]
         users_processes_report += f"\t{user}: {len(users_processes)}\n"
-    full_mem_used = sum([process.mem for process in processes])
+    full_mem_used = sum([process.rss for process in processes])
     full_cpu_used = sum([process.cpu for process in processes])
     mem_sorted_list = sorted(processes, key=lambda process: process.mem, reverse=True)
     cpu_sorted_list = sorted(processes, key=lambda process: process.cpu, reverse=True)

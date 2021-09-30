@@ -1,0 +1,417 @@
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root           1  0.0  0.0 169092 12872 ?        Ss   сен14   0:24 /sbin/init splash
+root           2  0.0  0.0      0     0 ?        S    сен14   0:00 [kthreadd]
+root           3  0.0  0.0      0     0 ?        I<   сен14   0:00 [rcu_gp]
+root           4  0.0  0.0      0     0 ?        I<   сен14   0:00 [rcu_par_gp]
+root           6  0.0  0.0      0     0 ?        I<   сен14   0:00 [kworker/0:0H-events_highpri]
+root           9  0.0  0.0      0     0 ?        I<   сен14   0:00 [mm_percpu_wq]
+root          10  0.0  0.0      0     0 ?        S    сен14   0:00 [rcu_tasks_rude_]
+root          11  0.0  0.0      0     0 ?        S    сен14   0:00 [rcu_tasks_trace]
+root          12  0.0  0.0      0     0 ?        S    сен14   0:01 [ksoftirqd/0]
+root          13  0.0  0.0      0     0 ?        I    сен14   0:40 [rcu_sched]
+root          14  0.0  0.0      0     0 ?        S    сен14   0:05 [migration/0]
+root          15  0.0  0.0      0     0 ?        S    сен14   0:00 [idle_inject/0]
+root          16  0.0  0.0      0     0 ?        S    сен14   0:00 [cpuhp/0]
+root          17  0.0  0.0      0     0 ?        S    сен14   0:00 [cpuhp/1]
+root          18  0.0  0.0      0     0 ?        S    сен14   0:00 [idle_inject/1]
+root          19  0.0  0.0      0     0 ?        S    сен14   0:05 [migration/1]
+root          20  0.0  0.0      0     0 ?        S    сен14   0:02 [ksoftirqd/1]
+root          22  0.0  0.0      0     0 ?        I<   сен14   0:00 [kworker/1:0H-events_highpri]
+root          23  0.0  0.0      0     0 ?        S    сен14   0:00 [cpuhp/2]
+root          24  0.0  0.0      0     0 ?        S    сен14   0:00 [idle_inject/2]
+root          25  0.0  0.0      0     0 ?        S    сен14   0:05 [migration/2]
+root          26  0.0  0.0      0     0 ?        S    сен14   0:01 [ksoftirqd/2]
+root          28  0.0  0.0      0     0 ?        I<   сен14   0:00 [kworker/2:0H-events_highpri]
+root          29  0.0  0.0      0     0 ?        S    сен14   0:00 [cpuhp/3]
+root          30  0.0  0.0      0     0 ?        S    сен14   0:00 [idle_inject/3]
+root          31  0.0  0.0      0     0 ?        S    сен14   0:05 [migration/3]
+root          32  0.0  0.0      0     0 ?        S    сен14   0:01 [ksoftirqd/3]
+root          34  0.0  0.0      0     0 ?        I<   сен14   0:00 [kworker/3:0H-events_highpri]
+root          35  0.0  0.0      0     0 ?        S    сен14   0:00 [kdevtmpfs]
+root          36  0.0  0.0      0     0 ?        I<   сен14   0:00 [netns]
+root          37  0.0  0.0      0     0 ?        I<   сен14   0:00 [inet_frag_wq]
+root          38  0.0  0.0      0     0 ?        S    сен14   0:00 [kauditd]
+root          39  0.0  0.0      0     0 ?        S    сен14   0:01 [khungtaskd]
+root          40  0.0  0.0      0     0 ?        S    сен14   0:00 [oom_reaper]
+root          41  0.0  0.0      0     0 ?        I<   сен14   0:00 [writeback]
+root          42  0.0  0.0      0     0 ?        S    сен14   0:30 [kcompactd0]
+root          43  0.0  0.0      0     0 ?        SN   сен14   0:00 [ksmd]
+root          44  0.0  0.0      0     0 ?        SN   сен14   0:01 [khugepaged]
+root          91  0.0  0.0      0     0 ?        I<   сен14   0:00 [kintegrityd]
+root          92  0.0  0.0      0     0 ?        I<   сен14   0:00 [kblockd]
+root          93  0.0  0.0      0     0 ?        I<   сен14   0:00 [blkcg_punt_bio]
+root          95  0.0  0.0      0     0 ?        I<   сен14   0:00 [tpm_dev_wq]
+root          96  0.0  0.0      0     0 ?        I<   сен14   0:00 [ata_sff]
+root          97  0.0  0.0      0     0 ?        I<   сен14   0:00 [md]
+root          98  0.0  0.0      0     0 ?        I<   сен14   0:00 [edac-poller]
+root          99  0.0  0.0      0     0 ?        I<   сен14   0:00 [devfreq_wq]
+root         101  0.0  0.0      0     0 ?        S    сен14   0:00 [watchdogd]
+root         103  0.0  0.0      0     0 ?        I<   сен14   0:01 [kworker/2:1H-kblockd]
+root         105  0.0  0.0      0     0 ?        S    сен14   0:00 [kswapd0]
+root         106  0.0  0.0      0     0 ?        S    сен14   0:00 [ecryptfs-kthrea]
+root         108  0.0  0.0      0     0 ?        I<   сен14   0:00 [kthrotld]
+root         109  0.0  0.0      0     0 ?        S    сен14   0:00 [irq/24-pciehp]
+root         110  0.0  0.0      0     0 ?        S    сен14   0:00 [irq/25-pciehp]
+root         111  0.0  0.0      0     0 ?        S    сен14   0:00 [irq/26-pciehp]
+root         112  0.0  0.0      0     0 ?        S    сен14   0:00 [irq/27-pciehp]
+root         113  0.0  0.0      0     0 ?        S    сен14   0:00 [irq/28-pciehp]
+root         114  0.0  0.0      0     0 ?        S    сен14   0:00 [irq/29-pciehp]
+root         115  0.0  0.0      0     0 ?        S    сен14   0:00 [irq/30-pciehp]
+root         116  0.0  0.0      0     0 ?        S    сен14   0:00 [irq/31-pciehp]
+root         117  0.0  0.0      0     0 ?        S    сен14   0:00 [irq/32-pciehp]
+root         118  0.0  0.0      0     0 ?        S    сен14   0:00 [irq/33-pciehp]
+root         119  0.0  0.0      0     0 ?        S    сен14   0:00 [irq/34-pciehp]
+root         120  0.0  0.0      0     0 ?        S    сен14   0:00 [irq/35-pciehp]
+root         121  0.0  0.0      0     0 ?        S    сен14   0:00 [irq/36-pciehp]
+root         122  0.0  0.0      0     0 ?        S    сен14   0:00 [irq/37-pciehp]
+root         123  0.0  0.0      0     0 ?        S    сен14   0:00 [irq/38-pciehp]
+root         124  0.0  0.0      0     0 ?        S    сен14   0:00 [irq/39-pciehp]
+root         125  0.0  0.0      0     0 ?        S    сен14   0:00 [irq/40-pciehp]
+root         126  0.0  0.0      0     0 ?        S    сен14   0:00 [irq/41-pciehp]
+root         127  0.0  0.0      0     0 ?        S    сен14   0:00 [irq/42-pciehp]
+root         128  0.0  0.0      0     0 ?        S    сен14   0:00 [irq/43-pciehp]
+root         129  0.0  0.0      0     0 ?        S    сен14   0:00 [irq/44-pciehp]
+root         130  0.0  0.0      0     0 ?        S    сен14   0:00 [irq/45-pciehp]
+root         131  0.0  0.0      0     0 ?        S    сен14   0:00 [irq/46-pciehp]
+root         132  0.0  0.0      0     0 ?        S    сен14   0:00 [irq/47-pciehp]
+root         133  0.0  0.0      0     0 ?        S    сен14   0:00 [irq/48-pciehp]
+root         134  0.0  0.0      0     0 ?        S    сен14   0:00 [irq/49-pciehp]
+root         135  0.0  0.0      0     0 ?        S    сен14   0:00 [irq/50-pciehp]
+root         136  0.0  0.0      0     0 ?        S    сен14   0:00 [irq/51-pciehp]
+root         137  0.0  0.0      0     0 ?        S    сен14   0:00 [irq/52-pciehp]
+root         138  0.0  0.0      0     0 ?        S    сен14   0:00 [irq/53-pciehp]
+root         139  0.0  0.0      0     0 ?        S    сен14   0:00 [irq/54-pciehp]
+root         140  0.0  0.0      0     0 ?        S    сен14   0:00 [irq/55-pciehp]
+root         141  0.0  0.0      0     0 ?        I<   сен14   0:00 [acpi_thermal_pm]
+root         142  0.0  0.0      0     0 ?        S    сен14   0:00 [scsi_eh_0]
+root         143  0.0  0.0      0     0 ?        I<   сен14   0:00 [scsi_tmf_0]
+root         144  0.0  0.0      0     0 ?        S    сен14   0:00 [scsi_eh_1]
+root         145  0.0  0.0      0     0 ?        I<   сен14   0:00 [scsi_tmf_1]
+root         147  0.0  0.0      0     0 ?        I<   сен14   0:00 [vfio-irqfd-clea]
+root         148  0.0  0.0      0     0 ?        I<   сен14   0:01 [kworker/1:1H-kblockd]
+root         149  0.0  0.0      0     0 ?        I<   сен14   0:00 [ipv6_addrconf]
+root         159  0.0  0.0      0     0 ?        I<   сен14   0:00 [kstrp]
+root         162  0.0  0.0      0     0 ?        I<   сен14   0:00 [zswap-shrink]
+root         163  0.0  0.0      0     0 ?        I<   сен14   0:00 [kworker/u9:0]
+root         168  0.0  0.0      0     0 ?        I<   сен14   0:00 [charger_manager]
+root         191  0.0  0.0      0     0 ?        I<   сен14   0:01 [kworker/3:1H-kblockd]
+root         220  0.0  0.0      0     0 ?        I<   сен14   0:00 [mpt_poll_0]
+root         221  0.0  0.0      0     0 ?        I<   сен14   0:00 [mpt/0]
+root         222  0.0  0.0      0     0 ?        S    сен14   0:00 [scsi_eh_2]
+root         223  0.0  0.0      0     0 ?        I<   сен14   0:00 [scsi_tmf_2]
+root         224  0.0  0.0      0     0 ?        S    сен14   0:00 [scsi_eh_3]
+root         225  0.0  0.0      0     0 ?        I<   сен14   0:00 [scsi_tmf_3]
+root         226  0.0  0.0      0     0 ?        S    сен14   0:00 [scsi_eh_4]
+root         227  0.0  0.0      0     0 ?        I<   сен14   0:00 [scsi_tmf_4]
+root         228  0.0  0.0      0     0 ?        S    сен14   0:00 [scsi_eh_5]
+root         229  0.0  0.0      0     0 ?        I<   сен14   0:00 [scsi_tmf_5]
+root         230  0.0  0.0      0     0 ?        S    сен14   0:00 [scsi_eh_6]
+root         231  0.0  0.0      0     0 ?        I<   сен14   0:00 [scsi_tmf_6]
+root         232  0.0  0.0      0     0 ?        S    сен14   0:00 [scsi_eh_7]
+root         233  0.0  0.0      0     0 ?        I<   сен14   0:00 [scsi_tmf_7]
+root         234  0.0  0.0      0     0 ?        S    сен14   0:00 [scsi_eh_8]
+root         235  0.0  0.0      0     0 ?        I<   сен14   0:00 [scsi_tmf_8]
+root         236  0.0  0.0      0     0 ?        S    сен14   0:00 [scsi_eh_9]
+root         237  0.0  0.0      0     0 ?        I<   сен14   0:00 [scsi_tmf_9]
+root         238  0.0  0.0      0     0 ?        S    сен14   0:00 [scsi_eh_10]
+root         239  0.0  0.0      0     0 ?        I<   сен14   0:00 [scsi_tmf_10]
+root         240  0.0  0.0      0     0 ?        S    сен14   0:00 [scsi_eh_11]
+root         241  0.0  0.0      0     0 ?        I<   сен14   0:00 [scsi_tmf_11]
+root         242  0.0  0.0      0     0 ?        S    сен14   0:00 [scsi_eh_12]
+root         243  0.0  0.0      0     0 ?        I<   сен14   0:00 [scsi_tmf_12]
+root         244  0.0  0.0      0     0 ?        S    сен14   0:00 [scsi_eh_13]
+root         245  0.0  0.0      0     0 ?        I<   сен14   0:00 [scsi_tmf_13]
+root         246  0.0  0.0      0     0 ?        S    сен14   0:00 [scsi_eh_14]
+root         247  0.0  0.0      0     0 ?        I<   сен14   0:00 [scsi_tmf_14]
+root         248  0.0  0.0      0     0 ?        S    сен14   0:00 [scsi_eh_15]
+root         249  0.0  0.0      0     0 ?        I<   сен14   0:00 [scsi_tmf_15]
+root         250  0.0  0.0      0     0 ?        S    сен14   0:00 [scsi_eh_16]
+root         251  0.0  0.0      0     0 ?        I<   сен14   0:00 [scsi_tmf_16]
+root         252  0.0  0.0      0     0 ?        S    сен14   0:00 [scsi_eh_17]
+root         253  0.0  0.0      0     0 ?        I<   сен14   0:00 [scsi_tmf_17]
+root         254  0.0  0.0      0     0 ?        S    сен14   0:00 [scsi_eh_18]
+root         255  0.0  0.0      0     0 ?        I<   сен14   0:00 [scsi_tmf_18]
+root         256  0.0  0.0      0     0 ?        S    сен14   0:00 [scsi_eh_19]
+root         257  0.0  0.0      0     0 ?        I<   сен14   0:00 [scsi_tmf_19]
+root         258  0.0  0.0      0     0 ?        S    сен14   0:00 [scsi_eh_20]
+root         259  0.0  0.0      0     0 ?        I<   сен14   0:00 [scsi_tmf_20]
+root         260  0.0  0.0      0     0 ?        S    сен14   0:00 [scsi_eh_21]
+root         261  0.0  0.0      0     0 ?        I<   сен14   0:00 [scsi_tmf_21]
+root         262  0.0  0.0      0     0 ?        S    сен14   0:00 [scsi_eh_22]
+root         263  0.0  0.0      0     0 ?        I<   сен14   0:00 [scsi_tmf_22]
+root         264  0.0  0.0      0     0 ?        S    сен14   0:00 [scsi_eh_23]
+root         265  0.0  0.0      0     0 ?        I<   сен14   0:00 [scsi_tmf_23]
+root         266  0.0  0.0      0     0 ?        S    сен14   0:00 [scsi_eh_24]
+root         267  0.0  0.0      0     0 ?        I<   сен14   0:00 [scsi_tmf_24]
+root         268  0.0  0.0      0     0 ?        S    сен14   0:00 [scsi_eh_25]
+root         269  0.0  0.0      0     0 ?        I<   сен14   0:00 [scsi_tmf_25]
+root         270  0.0  0.0      0     0 ?        S    сен14   0:00 [scsi_eh_26]
+root         271  0.0  0.0      0     0 ?        I<   сен14   0:00 [scsi_tmf_26]
+root         272  0.0  0.0      0     0 ?        S    сен14   0:00 [scsi_eh_27]
+root         273  0.0  0.0      0     0 ?        I<   сен14   0:00 [scsi_tmf_27]
+root         274  0.0  0.0      0     0 ?        S    сен14   0:00 [scsi_eh_28]
+root         275  0.0  0.0      0     0 ?        I<   сен14   0:00 [scsi_tmf_28]
+root         276  0.0  0.0      0     0 ?        S    сен14   0:00 [scsi_eh_29]
+root         277  0.0  0.0      0     0 ?        I<   сен14   0:00 [scsi_tmf_29]
+root         278  0.0  0.0      0     0 ?        S    сен14   0:00 [scsi_eh_30]
+root         280  0.0  0.0      0     0 ?        I<   сен14   0:00 [scsi_tmf_30]
+root         281  0.0  0.0      0     0 ?        S    сен14   0:00 [scsi_eh_31]
+root         282  0.0  0.0      0     0 ?        I<   сен14   0:00 [scsi_tmf_31]
+root         311  0.0  0.0      0     0 ?        S    сен14   0:00 [scsi_eh_32]
+root         312  0.0  0.0      0     0 ?        I<   сен14   0:00 [scsi_tmf_32]
+root         315  0.0  0.0      0     0 ?        I<   сен14   0:01 [kworker/0:1H-kblockd]
+root         335  0.0  0.0      0     0 ?        S    сен14   0:08 [jbd2/sda5-8]
+root         336  0.0  0.0      0     0 ?        I<   сен14   0:00 [ext4-rsv-conver]
+root         375  0.0  0.7 183576 121624 ?       S<s  сен14   0:10 /lib/systemd/systemd-journald
+root         401  0.0  0.0  24372  7900 ?        Ss   сен14   0:01 /lib/systemd/systemd-udevd
+root         406  0.0  0.0      0     0 ?        S<   сен14   0:00 [loop0]
+root         414  0.0  0.0      0     0 ?        S<   сен14   0:00 [loop1]
+root         415  0.0  0.0      0     0 ?        S<   сен14   0:00 [loop2]
+root         416  0.0  0.0      0     0 ?        S<   сен14   0:00 [loop3]
+root         417  0.0  0.0      0     0 ?        S<   сен14   0:00 [loop4]
+root         427  0.0  0.0      0     0 ?        S<   сен14   0:00 [loop5]
+root         447  0.0  0.0      0     0 ?        S<   сен14   0:00 [loop6]
+root         448  0.0  0.0      0     0 ?        S<   сен14   0:00 [loop7]
+root         455  0.0  0.0      0     0 ?        S    сен14   0:00 [irq/16-vmwgfx]
+root         456  0.0  0.0      0     0 ?        I<   сен14   0:00 [ttm_swap]
+root         457  0.0  0.0      0     0 ?        S    сен14   0:00 [card0-crtc0]
+root         458  0.0  0.0      0     0 ?        S    сен14   0:00 [card0-crtc1]
+root         459  0.0  0.0      0     0 ?        S    сен14   0:00 [card0-crtc2]
+root         461  0.0  0.0      0     0 ?        S    сен14   0:00 [card0-crtc3]
+root         463  0.0  0.0      0     0 ?        S    сен14   0:00 [card0-crtc4]
+root         465  0.0  0.0      0     0 ?        S    сен14   0:00 [card0-crtc5]
+root         466  0.0  0.0      0     0 ?        S    сен14   0:00 [card0-crtc6]
+root         467  0.0  0.0      0     0 ?        S    сен14   0:00 [card0-crtc7]
+root         476  0.0  0.0      0     0 ?        I<   сен14   0:00 [cryptd]
+systemd+     676  0.0  0.0  24300 13600 ?        Ss   сен14   0:16 /lib/systemd/systemd-resolved
+systemd+     678  0.0  0.0  90260  6196 ?        Ssl  сен14   0:02 /lib/systemd/systemd-timesyncd
+root         699  0.0  0.0 238336  7576 ?        Ssl  сен14   0:14 /usr/lib/accountsservice/accounts-daemon
+root         700  0.0  0.0   2548   776 ?        Ss   сен14   0:00 /usr/sbin/acpid
+avahi        703  0.0  0.0   8716  4304 ?        Ss   сен14   2:00 avahi-daemon: running [vm-1011-1-ubuntu.local]
+root         704  0.0  0.0   9424  3040 ?        Ss   сен14   0:01 /usr/sbin/cron -f
+message+     707  0.0  0.0  10052  6672 ?        Ss   сен14   0:27 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root         708  0.0  0.1 484080 20640 ?        Ssl  сен14  12:52 /usr/sbin/NetworkManager --no-daemon
+root         714  0.0  0.0  81968  3772 ?        Ssl  сен14   0:31 /usr/sbin/irqbalance --foreground
+root         717  0.0  0.1  39396 20084 ?        Ss   сен14   0:00 /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers
+root         719  0.0  0.0 241540 11196 ?        Ssl  сен14   0:10 /usr/lib/policykit-1/polkitd --no-debug
+syslog       721  0.0  0.0 224356  5580 ?        Ssl  сен14   0:02 /usr/sbin/rsyslogd -n -iNONE
+root         727  0.0  0.0 235612  5800 ?        Ssl  сен14   0:00 /usr/libexec/switcheroo-control
+root         728  0.0  0.0  16840  8496 ?        Ss   сен14   0:03 /lib/systemd/systemd-logind
+root         734  0.0  0.0 393376 12912 ?        Ssl  сен14   0:01 /usr/lib/udisks2/udisksd
+root         735  0.0  0.0  13688  4884 ?        Ss   сен14   0:04 /sbin/wpa_supplicant -u -s -O /run/wpa_supplicant
+avahi        740  0.0  0.0   8352   328 ?        S    сен14   0:00 avahi-daemon: chroot helper
+root         786  0.0  0.0 240708 10992 ?        Ssl  сен14   0:00 /usr/sbin/ModemManager
+root         794  0.0  0.1 118032 22572 ?        Ssl  сен14   0:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+root         797  0.0  0.3 1493428 49788 ?       Ssl  сен14  14:54 /usr/bin/containerd
+root         815  0.0  0.0 313480  9048 ?        Ssl  сен14   0:00 /usr/sbin/gdm3
+root         816  0.0  0.0  15596  4588 ?        S    сен14   0:00 /usr/sbin/xrdp-sesman
+root         824  0.0  0.0  12184  6880 ?        Ss   сен14   0:00 sshd: /usr/sbin/sshd -D [listener] 0 of 10-100 startups
+root         838  0.0  0.0 166820  8960 ?        Sl   сен14   0:00 gdm-session-worker [pam/gdm-launch-environment]
+xrdp         840  0.0  0.0  13068  2344 ?        S    сен14   0:00 /usr/sbin/xrdp
+whoopsie     863  0.0  0.0 327240 15928 ?        Ssl  сен14   0:04 /usr/bin/whoopsie -f
+kernoops     865  0.0  0.0  11264   444 ?        Ss   сен14   0:22 /usr/sbin/kerneloops --test
+kernoops     868  0.0  0.0  11264   448 ?        Ss   сен14   0:22 /usr/sbin/kerneloops
+gdm          891  0.0  0.0  18748  9944 ?        Ss   сен14   0:00 /lib/systemd/systemd --user
+gdm          892  0.0  0.0 168824  3372 ?        S    сен14   0:00 (sd-pam)
+gdm          901  0.0  0.0 804760 14352 ?        S<sl сен14   0:00 /usr/bin/pulseaudio --daemonize=no --log-target=journal
+gdm          903  0.0  0.1 585116 24356 ?        SNsl сен14   0:00 /usr/libexec/tracker-miner-fs
+gdm          905  0.0  0.0 161652  5692 tty1     Ssl+ сен14   0:00 /usr/lib/gdm3/gdm-wayland-session dbus-run-session -- gnome-session --autostart /usr/share/gdm/greeter/autostart
+gdm          907  0.0  0.0   7404  4456 ?        Ss   сен14   0:00 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root         908  0.0  0.5 1753228 86240 ?       Ssl  сен14   6:48 /usr/bin/dockerd -H fd:// --containerd=/run/containerd/containerd.sock
+rtkit        912  0.0  0.0 152940  2952 ?        SNsl сен14   0:12 /usr/libexec/rtkit-daemon
+gdm          922  0.0  0.0   5300  1044 tty1     S+   сен14   0:00 dbus-run-session -- gnome-session --autostart /usr/share/gdm/greeter/autostart
+gdm          923  0.0  0.0   7680  4840 tty1     S+   сен14   0:00 dbus-daemon --nofork --print-address 4 --session
+gdm          925  0.0  0.0 239704  7452 ?        Ssl  сен14   0:00 /usr/libexec/gvfsd
+gdm          926  0.0  0.0 688608 15024 tty1     Sl+  сен14   0:00 /usr/libexec/gnome-session-binary --systemd --autostart /usr/share/gdm/greeter/autostart
+gdm          937  0.0  0.0 313016  6260 ?        Sl   сен14   0:00 /usr/libexec/gvfsd-fuse /run/user/125/gvfs -f -o big_writes
+gdm          946  0.0  0.0 313900  9012 ?        Ssl  сен14   0:01 /usr/libexec/gvfs-udisks2-volume-monitor
+gdm          973  0.0  0.0 235708  6288 ?        Ssl  сен14   0:00 /usr/libexec/gvfs-mtp-volume-monitor
+gdm          989  0.0  0.0 235880  6120 ?        Ssl  сен14   0:00 /usr/libexec/gvfs-goa-volume-monitor
+gdm          997  0.0  0.2 545132 36216 ?        Sl   сен14   0:01 /usr/libexec/goa-daemon
+gdm         1005  0.0  1.2 4644972 200864 tty1   Sl+  сен14   5:52 /usr/bin/gnome-shell
+gdm         1036  0.0  0.0 314968  9260 ?        Sl   сен14   0:01 /usr/libexec/goa-identity-service
+gdm         1041  0.0  0.0 237984  6676 ?        Ssl  сен14   0:00 /usr/libexec/gvfs-gphoto2-volume-monitor
+gdm         1046  0.0  0.0 316728  8780 ?        Ssl  сен14   0:40 /usr/libexec/gvfs-afc-volume-monitor
+root        1051  0.0  0.0 252108  9768 ?        Ssl  сен14   0:00 /usr/lib/upower/upowerd
+root        1085  0.0  0.0   2496   584 ?        S    сен14   0:00 bpfilter_umh
+gdm         1248  0.0  0.0 305864  6932 tty1     Sl+  сен14   0:00 /usr/libexec/at-spi-bus-launcher
+gdm         1259  0.0  0.0   7248  4008 tty1     S+   сен14   0:00 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 3
+gdm         1278  0.0  0.2 1031508 46480 tty1    Sl+  сен14   0:00 /usr/bin/Xwayland :1024 -rootless -noreset -accessx -core -auth /run/user/125/.mutter-Xwaylandauth.2XVP90 -listen 4 -listen 5 -displayfd 6 -listen 7
+colord      1293  0.0  0.0 246856 15152 ?        Ssl  сен14   0:00 /usr/libexec/colord
+gdm         1319  0.0  0.0 235600  4540 tty1     Sl+  сен14   0:00 /usr/libexec/xdg-permission-store
+gdm         1332  0.0  0.1 2733676 27316 tty1    Sl+  сен14   0:00 /usr/bin/gjs /usr/share/gnome-shell/org.gnome.Shell.Notifications
+gdm         1334  0.0  0.0 162772  6768 tty1     Sl+  сен14   0:00 /usr/libexec/at-spi2-registryd --use-gnome-session
+gdm         1338  0.0  0.0 465228 10832 tty1     Sl+  сен14   0:01 /usr/libexec/gsd-sharing
+gdm         1339  0.0  0.1 413076 21328 tty1     Sl+  сен14   0:00 /usr/libexec/gsd-wacom
+gdm         1346  0.0  0.1 488480 23020 tty1     Sl+  сен14   0:05 /usr/libexec/gsd-color
+gdm         1348  0.0  0.1 339572 21632 tty1     Sl+  сен14   0:00 /usr/libexec/gsd-keyboard
+gdm         1351  0.0  0.0 248904 11860 tty1     Sl+  сен14   0:00 /usr/libexec/gsd-print-notifications
+gdm         1362  0.0  0.0 457104  6000 tty1     Sl+  сен14   0:01 /usr/libexec/gsd-rfkill
+gdm         1366  0.0  0.0 315616 10332 tty1     Sl+  сен14   0:00 /usr/libexec/gsd-smartcard
+gdm         1373  0.0  0.0 374072 16128 tty1     Sl+  сен14   0:00 /usr/libexec/gsd-datetime
+gdm         1376  0.0  0.1 608496 23220 tty1     Sl+  сен14   0:00 /usr/libexec/gsd-media-keys
+gdm         1378  0.0  0.0 235640  5676 tty1     Sl+  сен14   0:00 /usr/libexec/gsd-screensaver-proxy
+gdm         1382  0.0  0.0 319316  8928 tty1     Sl+  сен14   0:00 /usr/libexec/gsd-sound
+gdm         1386  0.0  0.0 310112  6612 tty1     Sl+  сен14   0:00 /usr/libexec/gsd-a11y-settings
+gdm         1389  0.0  0.0 311808  7940 tty1     Sl+  сен14   0:28 /usr/libexec/gsd-housekeeping
+gdm         1396  0.0  0.1 340596 22492 tty1     Sl+  сен14   0:00 /usr/libexec/gsd-power
+gdm         1459  0.0  0.0 342196 14772 tty1     Sl+  сен14   0:00 /usr/libexec/gsd-printer
+gdm         1467  0.0  0.0 384704  8180 tty1     Sl   сен14   0:00 ibus-daemon --panel disable -r --xim
+gdm         1472  0.0  0.0 162780  7168 tty1     Sl   сен14   0:00 /usr/libexec/ibus-memconf
+gdm         1474  0.0  0.3 1199160 53408 tty1    Sl   сен14   0:00 /usr/libexec/ibus-x11 --kill-daemon
+gdm         1480  0.0  0.0 236580  7220 tty1     Sl+  сен14   0:00 /usr/libexec/ibus-portal
+gdm         1484  0.0  0.0 162772  6884 tty1     Sl   сен14   0:00 /usr/libexec/ibus-engine-simple
+gdm         1526  0.0  0.0 156100  5300 tty1     Sl+  сен14   0:00 /usr/libexec/dconf-service
+root        3668  0.0  0.0 1296316 4144 ?        Sl   сен14   0:01 /usr/bin/docker-proxy -proto tcp -host-ip 0.0.0.0 -host-port 8888 -container-ip 172.18.0.2 -container-port 80
+root        3674  0.0  0.0 1222840 3840 ?        Sl   сен14   0:01 /usr/bin/docker-proxy -proto tcp -host-ip :: -host-port 8888 -container-ip 172.18.0.2 -container-port 80
+root        3691  0.0  0.0 1296316 3636 ?        Sl   сен14   0:01 /usr/bin/docker-proxy -proto tcp -host-ip 0.0.0.0 -host-port 3306 -container-ip 172.18.0.3 -container-port 3306
+root        3697  0.0  0.0 1075376 3828 ?        Sl   сен14   0:01 /usr/bin/docker-proxy -proto tcp -host-ip :: -host-port 3306 -container-ip 172.18.0.3 -container-port 3306
+root        3721  0.0  0.0 713328  9736 ?        Sl   сен14   1:01 /usr/bin/containerd-shim-runc-v2 -namespace moby -id 753d49c765a044baf6efde89b8c427194a4829af3cbde6edeb4d970082219ba6 -address /run/containerd/containerd.sock
+root        3722  0.0  0.0 713328  9420 ?        Sl   сен14   0:58 /usr/bin/containerd-shim-runc-v2 -namespace moby -id cc33f4595c1fdd152227dcc4a040699037a616a461a8a3dd0820d19dd2a524f6 -address /run/containerd/containerd.sock
+1001        3762  0.0  0.5 1002296 85240 ?       Ssl  сен14  13:52 /opt/bitnami/mariadb/sbin/mysqld --defaults-file=/opt/bitnami/mariadb/conf/my.cnf --basedir=/opt/bitnami/mariadb --datadir=/bitnami/mariadb/data --socket=/opt/bitnami/mariadb/tmp/mysql.sock --pid-file=/opt/bitnami/mariadb/tmp/mysqld.pid
+root        3769  0.0  0.1 227816 29332 ?        Ss   сен14   0:45 apache2 -DFOREGROUND
+root        3923  0.0  0.0 1296572 3748 ?        Sl   сен14   0:01 /usr/bin/docker-proxy -proto tcp -host-ip 0.0.0.0 -host-port 8081 -container-ip 172.18.0.4 -container-port 8080
+root        3935  0.0  0.0 1075120 3640 ?        Sl   сен14   0:01 /usr/bin/docker-proxy -proto tcp -host-ip :: -host-port 8081 -container-ip 172.18.0.4 -container-port 8080
+root        3965  0.0  0.0 1296572 3584 ?        Sl   сен14   0:01 /usr/bin/docker-proxy -proto tcp -host-ip 0.0.0.0 -host-port 443 -container-ip 172.18.0.4 -container-port 8443
+root        3976  0.0  0.0 1222840 3884 ?        Sl   сен14   0:01 /usr/bin/docker-proxy -proto tcp -host-ip :: -host-port 443 -container-ip 172.18.0.4 -container-port 8443
+root        4000  0.0  0.0 713328  9840 ?        Sl   сен14   0:57 /usr/bin/containerd-shim-runc-v2 -namespace moby -id a3c566970ab934ca4152cc8e4206763d802605a695710981e56f6a70fb7fef7d -address /run/containerd/containerd.sock
+1001        4020  0.0  0.2 291592 36592 ?        Ss   сен14   0:47 /opt/bitnami/apache/bin/httpd -f /opt/bitnami/apache/conf/httpd.conf -D FOREGROUND
+www-data    4021  0.0  0.0 227840  7476 ?        S    сен14   0:00 apache2 -DFOREGROUND
+www-data    4027  0.0  0.0 227840  7476 ?        S    сен14   0:00 apache2 -DFOREGROUND
+www-data    4028  0.0  0.0 227840  7476 ?        S    сен14   0:00 apache2 -DFOREGROUND
+www-data    4029  0.0  0.0 227840  7476 ?        S    сен14   0:00 apache2 -DFOREGROUND
+www-data    4030  0.0  0.0 227840  7476 ?        S    сен14   0:00 apache2 -DFOREGROUND
+gdm        11269  0.0  0.0 162256  6356 ?        Ssl  сен16   0:00 /usr/libexec/gvfsd-metadata
+root       53260  0.0  0.0      0     0 ?        S<   сен22   0:00 [loop10]
+root       53277  0.0  0.1 1231480 31628 ?       Ssl  сен22   0:31 /usr/lib/snapd/snapd
+root       54218  0.0  0.0      0     0 ?        S<   сен22   0:00 [loop8]
+root       54890  0.0  0.0      0     0 ?        S<   сен22   0:00 [loop11]
+root       63809  0.0  0.0      0     0 ?        I<   сен23   0:00 [xfsalloc]
+root       63810  0.0  0.0      0     0 ?        I<   сен23   0:00 [xfs_mru_cache]
+root       63815  0.0  0.0      0     0 ?        S    сен23   0:00 [jfsIO]
+root       63816  0.0  0.0      0     0 ?        S    сен23   0:00 [jfsCommit]
+root       63817  0.0  0.0      0     0 ?        S    сен23   0:00 [jfsCommit]
+root       63818  0.0  0.0      0     0 ?        S    сен23   0:00 [jfsCommit]
+root       63819  0.0  0.0      0     0 ?        S    сен23   0:00 [jfsCommit]
+root       63820  0.0  0.0      0     0 ?        S    сен23   0:00 [jfsSync]
+user       79883  0.0  0.0  18752 10076 ?        Ss   сен24   0:00 /lib/systemd/systemd --user
+user       79884  0.0  0.0 170536  4804 ?        S    сен24   0:00 (sd-pam)
+user       79892  0.0  0.1 585116 24932 ?        SNsl сен24   0:00 /usr/libexec/tracker-miner-fs
+user       79898  0.0  0.0   7392  4500 ?        Ss   сен24   0:00 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+user       79902  0.0  0.0 239704  7580 ?        Ssl  сен24   0:00 /usr/libexec/gvfsd
+user       79907  0.0  0.0 378552  6384 ?        Sl   сен24   0:00 /usr/libexec/gvfsd-fuse /run/user/1000/gvfs -f -o big_writes
+user       79922  0.0  0.0 387728  9604 ?        Ssl  сен24   0:00 /usr/libexec/gvfs-udisks2-volume-monitor
+user       79948  0.0  0.0 235708  6148 ?        Ssl  сен24   0:00 /usr/libexec/gvfs-mtp-volume-monitor
+user       79954  0.0  0.0 235880  6020 ?        Ssl  сен24   0:00 /usr/libexec/gvfs-goa-volume-monitor
+user       79958  0.0  0.2 545164 36396 ?        Sl   сен24   0:00 /usr/libexec/goa-daemon
+user       79966  0.0  0.0 314968  9248 ?        Sl   сен24   0:00 /usr/libexec/goa-identity-service
+user       79972  0.0  0.0 237984  6820 ?        Ssl  сен24   0:00 /usr/libexec/gvfs-gphoto2-volume-monitor
+user       79977  0.0  0.0 316728  8900 ?        Ssl  сен24   0:14 /usr/libexec/gvfs-afc-volume-monitor
+root       94790  0.0  0.0      0     0 ?        I    сен28   0:05 [kworker/1:2-mm_percpu_wq]
+user      104359  0.0  0.1 361100 23716 ?        Ssl  сен29   0:03 /usr/libexec/tracker-store
+root      105775  0.0  0.0      0     0 ?        I    сен29   0:07 [kworker/2:1-mm_percpu_wq]
+root      107491  0.0  0.0  29120 10032 ?        Ss   00:00   0:00 /usr/sbin/cupsd -l
+root      107492  0.0  0.1 184448 19288 ?        Ssl  00:00   0:01 /usr/sbin/cups-browsed
+lp        107502  0.0  0.0  15336  6692 ?        S    00:00   0:00 /usr/lib/cups/notifier/dbus dbus://
+lp        107504  0.0  0.0  15336  6612 ?        S    00:00   0:00 /usr/lib/cups/notifier/dbus dbus://
+root      108265  0.0  0.0      0     0 ?        I    07:37   0:00 [kworker/0:2-events]
+root      108405  0.0  0.0      0     0 ?        I    09:59   0:00 [kworker/u8:0-events_power_efficient]
+xrdp      108488  5.6  0.2  50584 34196 ?        S    10:07   1:07 /usr/sbin/xrdp
+root      108489  0.0  0.0  15596  4144 ?        S    10:07   0:00 /usr/sbin/xrdp-sesman
+user      108490  0.0  0.0 623564 15796 ?        Sl   10:07   0:00 /usr/libexec/gnome-session-binary --builtin
+user      108491  3.9  1.0 1235052 174232 ?      Sl   10:07   0:47 /usr/lib/xorg/Xorg :10 -auth .Xauthority -config xrdp/xorg.conf -noreset -nolisten tcp -logfile .xorgxrdp.%s.log
+user      108512  0.0  0.0  92228  5528 ?        Sl   10:07   0:00 /usr/sbin/xrdp-chansrv
+user      108529  0.0  0.0   7172  2040 ?        S    10:07   0:00 dbus-launch --autolaunch d4af015e0829499c9d1e902e61dc257c --binary-syntax --close-stderr
+user      108530  0.0  0.0   7116  2660 ?        Ss   10:07   0:00 /usr/bin/dbus-daemon --syslog-only --fork --print-pid 5 --print-address 7 --session
+user      108559  0.0  0.0   7172  2108 ?        S    10:07   0:00 /usr/bin/dbus-launch --exit-with-session --sh-syntax
+user      108560  0.0  0.0   8236  4336 ?        Ss   10:07   0:00 /usr/bin/dbus-daemon --syslog --fork --print-pid 5 --print-address 7 --session
+user      108569  0.0  0.0   6040   460 ?        Ss   10:07   0:00 /usr/bin/ssh-agent /usr/bin/im-launch x-session-manager
+user      108583  0.0  0.0 239812  7872 ?        Sl   10:07   0:00 /usr/libexec/gvfsd
+user      108588  0.0  0.0 378552  6280 ?        Sl   10:07   0:00 /usr/libexec/gvfsd-fuse /home/user/.cache/gvfs -f -o big_writes
+user      108609  0.0  0.0 306140  7532 ?        Sl   10:07   0:00 /usr/libexec/at-spi-bus-launcher
+user      108614  0.0  0.0   7380  4332 ?        S    10:07   0:00 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 3
+user      108661  0.0  0.0 387656  8224 ?        SLl  10:07   0:00 /usr/bin/gnome-keyring-daemon --start --components=secrets
+user      108674 13.7  2.3 4779664 390904 ?      Sl   10:07   2:45 /usr/bin/gnome-shell
+user      108696  0.1  0.0 311288  8572 ?        Sl   10:07   0:01 ibus-daemon --panel disable --xim
+user      108700  0.0  0.0 162916  6924 ?        Sl   10:07   0:00 /usr/libexec/ibus-memconf
+user      108701  0.1  0.1 271128 28516 ?        Sl   10:07   0:01 /usr/libexec/ibus-extension-gtk3
+user      108703  0.0  0.1 191536 23108 ?        Sl   10:07   0:00 /usr/libexec/ibus-x11 --kill-daemon
+user      108708  0.0  0.0 236716  7204 ?        Sl   10:07   0:00 /usr/libexec/ibus-portal
+user      108717  0.0  0.0 162912  6628 ?        Sl   10:07   0:00 /usr/libexec/at-spi2-registryd --use-gnome-session
+user      108722  0.0  0.0 235600  6180 ?        Sl   10:07   0:00 /usr/libexec/xdg-permission-store
+user      108727  0.0  0.1 581860 20756 ?        Sl   10:07   0:00 /usr/libexec/gnome-shell-calendar-server
+user      108734  0.0  0.1 390404 25520 ?        Sl   10:07   0:00 /usr/libexec/evolution-source-registry
+user      108742  0.0  0.2 545164 36672 ?        Sl   10:07   0:00 /usr/libexec/goa-daemon
+user      108746  0.0  0.1 855180 30804 ?        Sl   10:07   0:00 /usr/libexec/evolution-calendar-factory
+user      108755  0.0  0.0 314968  9328 ?        Sl   10:07   0:00 /usr/libexec/goa-identity-service
+user      108767  0.0  0.0 156100  5476 ?        Sl   10:07   0:00 /usr/libexec/dconf-service
+user      108773  0.0  0.1 673300 29632 ?        Sl   10:07   0:00 /usr/libexec/evolution-addressbook-factory
+user      108779  0.0  0.0 387624  9204 ?        Sl   10:07   0:00 /usr/libexec/gvfs-udisks2-volume-monitor
+user      108797  0.0  0.0 235708  6268 ?        Sl   10:07   0:00 /usr/libexec/gvfs-mtp-volume-monitor
+user      108802  0.0  0.0 235880  6184 ?        Sl   10:07   0:00 /usr/libexec/gvfs-goa-volume-monitor
+user      108807  0.0  0.0 237984  6912 ?        Sl   10:07   0:00 /usr/libexec/gvfs-gphoto2-volume-monitor
+user      108812  0.0  0.0 316728  8848 ?        Sl   10:07   0:00 /usr/libexec/gvfs-afc-volume-monitor
+user      108818  0.0  0.1 2733920 27428 ?       Sl   10:07   0:00 /usr/bin/gjs /usr/share/gnome-shell/org.gnome.Shell.Notifications
+user      108828  0.0  0.1 339048 22804 ?        Sl   10:07   0:00 /usr/libexec/gsd-wacom
+user      108829  0.0  0.0 385548  7480 ?        Sl   10:07   0:00 /usr/libexec/gsd-usb-protection
+user      108834  0.0  0.1 698032 25492 ?        Sl   10:07   0:00 /usr/libexec/gsd-media-keys
+user      108836  0.0  0.0 457104  6180 ?        Sl   10:07   0:00 /usr/libexec/gsd-rfkill
+user      108838  0.0  0.0 310244  6964 ?        Sl   10:07   0:00 /usr/libexec/gsd-a11y-settings
+user      108840  0.0  0.0 162908  6872 ?        Sl   10:07   0:00 /usr/libexec/ibus-engine-simple
+user      108841  0.0  0.1 340128 24392 ?        Sl   10:07   0:00 /usr/libexec/gsd-xsettings
+user      108845  0.0  0.1 413644 23812 ?        Sl   10:07   0:00 /usr/libexec/gsd-power
+user      108850  0.0  0.0 235512  6228 ?        Sl   10:07   0:00 /usr/libexec/gsd-screensaver-proxy
+user      108853  0.0  0.1 561512 23964 ?        Sl   10:07   0:00 /usr/libexec/gsd-color
+user      108859  0.0  0.0 248248 11276 ?        Sl   10:07   0:00 /usr/libexec/gsd-print-notifications
+user      108861  0.0  0.0 465360 10740 ?        Sl   10:07   0:00 /usr/libexec/gsd-sharing
+user      108869  0.0  0.1 374336 16420 ?        Sl   10:07   0:00 /usr/libexec/gsd-datetime
+user      108879  0.0  0.0 315884  9032 ?        Sl   10:07   0:00 /usr/libexec/gsd-smartcard
+user      108882  0.0  0.0 314592  8672 ?        Sl   10:07   0:00 /usr/libexec/gsd-wwan
+user      108887  0.0  0.0 311916  7960 ?        Sl   10:07   0:00 /usr/libexec/gsd-housekeeping
+user      108889  0.0  0.0 319448  9348 ?        Sl   10:07   0:00 /usr/libexec/gsd-sound
+user      108896  0.0  0.1 339476 23300 ?        Sl   10:07   0:00 /usr/libexec/gsd-keyboard
+user      108953  0.0  0.1 585204 24660 ?        SNl  10:07   0:00 /usr/libexec/tracker-miner-fs
+user      108961  0.0  0.0 231800  5688 ?        Sl   10:07   0:00 /usr/libexec/gsd-disk-utility-notify
+user      108968  0.0  0.3 704868 55240 ?        Sl   10:07   0:00 /usr/libexec/evolution-data-server/evolution-alarm-notify
+user      108983  0.0  0.0 342196 14920 ?        Sl   10:07   0:00 /usr/libexec/gsd-printer
+root      108984  0.0  0.0  12340  5376 ?        S    10:07   0:00 /usr/lib/policykit-1/polkit-agent-helper-1 user
+user      108988  0.0  0.1 362492 24796 ?        Sl   10:07   0:00 /usr/libexec/tracker-store
+user      109051  0.0  0.2 476936 47756 ?        Sl   10:07   0:00 /usr/libexec/gnome-terminal-server
+user      109053  0.0  0.2 872244 39940 ?        SLl  10:07   0:00 /usr/bin/seahorse --gapplication-service
+user      109056  0.0  0.0 314060  8556 ?        Sl   10:07   0:00 /usr/libexec/gvfsd-trash --spawner :1.6 /org/gtk/gvfs/exec_spaw/0
+user      109141  0.0  0.0  10888  5504 pts/0    Ss+  10:07   0:00 bash
+root      109150  0.0  0.0      0     0 ?        I    10:08   0:00 [kworker/3:0-mm_percpu_wq]
+user      109179  0.0  0.1 417536 30000 ?        Sl   10:08   0:00 update-notifier
+user      109181  0.0  0.0 162248  6388 ?        Sl   10:08   0:00 /usr/libexec/gvfsd-metadata
+user      109218  0.0  0.0  10888  5184 pts/1    Ss   10:08   0:00 bash
+user      109259  0.0  0.0   2616  1704 pts/1    S+   10:08   0:00 /bin/sh /home/user/pycharm-community-2021.2.1/bin/pycharm.sh
+user      109274 34.1 14.0 7347388 2304760 pts/1 Sl+  10:08   6:22 /home/user/pycharm-community-2021.2.1/jbr/bin/java -classpath /home/user/pycharm-community-2021.2.1/lib/bootstrap.jar:/home/user/pycharm-community-2021.2.1/lib/util.jar:/home/user/pycharm-community-2021.2.1/lib/jna.jar -Xmx2001m -Xms128m -XX:ReservedCodeCacheSize=512m -XX:+UseG1GC -XX:SoftRefLRUPolicyMSPerMB=50 -XX:CICompilerCount=2 -XX:+HeapDumpOnOutOfMemoryError -XX:-OmitStackTraceInFastThrow -ea -Dsun.io.useCanonCaches=false -Djdk.http.auth.tunneling.disabledSchemes="" -Djdk.attach.allowAttachSelf=true -Djdk.module.illegalAccess.silent=true -Dkotlinx.coroutines.debug=off -Dsun.tools.attach.tmp.only=true -XX:ErrorFile=/home/user/java_error_in_pycharm_%p.log -XX:HeapDumpPath=/home/user/java_error_in_pycharm_.hprof -Djb.vmOptionsFile=/home/user/.config/JetBrains/PyCharmCE2021.2/pycharm64.vmoptions -Djava.system.class.loader=com.intellij.util.lang.PathClassLoader -Didea.vendor.name=JetBrains -Didea.paths.selector=PyCharmCE2021.2 -Didea.platform.prefix=PyCharmCore -Dsplash=true com.intellij.idea.Main
+user      109382  0.2  0.4 792224 71116 ?        Sl   10:09   0:02 /usr/bin/nautilus --gapplication-service
+user      109423  0.0  0.3 221880 49528 pts/1    S+   10:10   0:00 /home/user/pycharm-community-2021.2.1/jbr/lib/jcef_helper --type=zygote --no-zygote-sandbox --disable-in-process-stack-traces --no-sandbox --force-device-scale-factor=1.0 --locales-dir-path=/home/user/pycharm-community-2021.2.1/jbr/lib/locales --log-file=/home/user/jcef_109274.log --log-severity=disable --resources-dir-path=/home/user/pycharm-community-2021.2.1/jbr/lib --lang=en-US
+user      109424  0.0  0.3 221880 49936 pts/1    S+   10:10   0:00 /home/user/pycharm-community-2021.2.1/jbr/lib/jcef_helper --type=zygote --disable-in-process-stack-traces --no-sandbox --force-device-scale-factor=1.0 --locales-dir-path=/home/user/pycharm-community-2021.2.1/jbr/lib/locales --log-file=/home/user/jcef_109274.log --log-severity=disable --resources-dir-path=/home/user/pycharm-community-2021.2.1/jbr/lib --lang=en-US
+user      109459  0.0  0.3 664376 61644 pts/1    Sl+  10:10   0:00 /home/user/pycharm-community-2021.2.1/jbr/lib/jcef_helper --type=utility --utility-sub-type=network.mojom.NetworkService --field-trial-handle=18188554119432245084,5036392529515770436,131072 --enable-features=CastMediaRouteProvider --disable-features=SpareRendererForSitePerProcess --lang=en-US --service-sandbox-type=network --no-sandbox --locales-dir-path=/home/user/pycharm-community-2021.2.1/jbr/lib/locales --log-file=/home/user/jcef_109274.log --log-severity=disable --resources-dir-path=/home/user/pycharm-community-2021.2.1/jbr/lib --lang=en-US --disable-in-process-stack-traces --log-file=/home/user/jcef_109274.log --shared-files=v8_context_snapshot_data:100
+user      109460  0.0  0.2 672876 46032 pts/1    Sl+  10:10   0:00 /home/user/pycharm-community-2021.2.1/jbr/lib/jcef_helper --type=gpu-process --field-trial-handle=18188554119432245084,5036392529515770436,131072 --enable-features=CastMediaRouteProvider --disable-features=SpareRendererForSitePerProcess --no-sandbox --locales-dir-path=/home/user/pycharm-community-2021.2.1/jbr/lib/locales --log-file=/home/user/jcef_109274.log --log-severity=disable --resources-dir-path=/home/user/pycharm-community-2021.2.1/jbr/lib --lang=en-US --gpu-preferences=UAAAAAAAAAAgACAQAAAAAAAAAAAAAAAAAABgAAAAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAA= --use-gl=swiftshader-webgl --disable-in-process-stack-traces --log-file=/home/user/jcef_109274.log --shared-files
+user      109747  0.0  0.0   3264  1640 pts/1    S+   10:12   0:00 /home/user/pycharm-community-2021.2.1/bin/fsnotifier
+user      109898  0.0  0.0 872352 10620 ?        Sl   10:14   0:00 /usr/libexec/xdg-desktop-portal
+user      109923  0.0  0.0 613188  6460 ?        Sl   10:14   0:00 /usr/libexec/xdg-document-portal
+user      109934  0.0  0.1 488460 24716 ?        Sl   10:14   0:00 /usr/libexec/xdg-desktop-portal-gtk
+root      110072  0.0  0.0      0     0 ?        I    10:14   0:00 [kworker/2:0-events]
+root      110221  0.0  0.0      0     0 ?        I    10:14   0:00 [kworker/3:2-events]
+root      110351  0.0  0.0      0     0 ?        I    10:14   0:00 [kworker/0:0-inet_frag_wq]
+1001      112080  0.0  0.1 292452 27576 ?        S    10:17   0:00 /opt/bitnami/apache/bin/httpd -f /opt/bitnami/apache/conf/httpd.conf -D FOREGROUND
+1001      112432  0.0  0.1 292452 27536 ?        S    10:17   0:00 /opt/bitnami/apache/bin/httpd -f /opt/bitnami/apache/conf/httpd.conf -D FOREGROUND
+1001      112642  0.0  0.1 292452 27668 ?        S    10:17   0:00 /opt/bitnami/apache/bin/httpd -f /opt/bitnami/apache/conf/httpd.conf -D FOREGROUND
+1001      113055  0.0  0.0 292100 11568 ?        S    10:17   0:00 /opt/bitnami/apache/bin/httpd -f /opt/bitnami/apache/conf/httpd.conf -D FOREGROUND
+1001      113263  0.0  0.1 292452 27268 ?        S    10:18   0:00 /opt/bitnami/apache/bin/httpd -f /opt/bitnami/apache/conf/httpd.conf -D FOREGROUND
+1001      113412  0.0  0.1 292452 25772 ?        S    10:18   0:00 /opt/bitnami/apache/bin/httpd -f /opt/bitnami/apache/conf/httpd.conf -D FOREGROUND
+1001      113696  0.0  0.0 292100 11564 ?        S    10:18   0:00 /opt/bitnami/apache/bin/httpd -f /opt/bitnami/apache/conf/httpd.conf -D FOREGROUND
+root      113706  0.0  0.0      0     0 ?        I    10:18   0:00 [kworker/1:0-events]
+1001      113836  0.0  0.0 292100 11452 ?        S    10:18   0:00 /opt/bitnami/apache/bin/httpd -f /opt/bitnami/apache/conf/httpd.conf -D FOREGROUND
+1001      114196  0.0  0.0 292100 11416 ?        S    10:18   0:00 /opt/bitnami/apache/bin/httpd -f /opt/bitnami/apache/conf/httpd.conf -D FOREGROUND
+1001      114197  0.0  0.0 291592  8264 ?        S    10:19   0:00 /opt/bitnami/apache/bin/httpd -f /opt/bitnami/apache/conf/httpd.conf -D FOREGROUND
+root      114350  0.0  0.0      0     0 ?        I    10:22   0:00 [kworker/u8:2-ext4-rsv-conversion]
+root      114389  0.0  0.0      0     0 ?        I    10:25   0:00 [kworker/0:1-events]
+user      114391  0.2  0.0  12472  6724 pts/3    Ss+  10:25   0:00 /bin/bash --rcfile /home/user/pycharm-community-2021.2.1/plugins/terminal/jediterm-bash.in -i
+root      114447  0.0  0.0      0     0 ?        I    10:27   0:00 [kworker/u8:1]
+user      114456  0.0  0.0  19300 10648 pts/1    S+   10:27   0:00 /home/user/Documents/git/python_qa_linux/venv/bin/python /home/user/Documents/git/python_qa_linux/ps_aux.py
+user      114457  0.0  0.0  11744  3660 pts/1    R+   10:27   0:00 ps aux
