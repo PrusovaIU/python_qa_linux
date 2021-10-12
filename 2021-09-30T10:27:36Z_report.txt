@@ -1,0 +1,26 @@
+Отчет о состоянии системы
+
+Пользователи системы: colord; user; lp; 1001; whoopsie; www-data; xrdp; gdm; message+; syslog; avahi; kernoops; root; systemd+; rtkit
+Процессов запущено: 416
+
+Пользовательских процессов
+	colord: 1
+	user: 92
+	lp: 2
+	1001: 12
+	whoopsie: 1
+	www-data: 5
+	xrdp: 2
+	gdm: 47
+	message+: 1
+	syslog: 1
+	avahi: 2
+	kernoops: 2
+	root: 245
+	systemd+: 2
+	rtkit: 1
+
+Всего памяти используется: 6138528.00 Mb
+Всего CPU используется: 57.90 %
+Больше всего памяти использует: /home/user/pycharm-c
+Больше всего CPU использует: /home/user/pycharm-c
